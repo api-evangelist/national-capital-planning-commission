@@ -20,6 +20,8 @@ tags:
   - National Capital Region
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-capital-planning-commission
   - type: Website
     url: https://www.ncpc.gov/
   - type: ProjectSearch
