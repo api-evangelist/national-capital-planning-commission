@@ -10,7 +10,7 @@ description: >-
 url: >-
   https://raw.githubusercontent.com/api-evangelist/national-capital-planning-commission/refs/heads/main/apis.yml
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 created: '2024-12-03'
 modified: '2026-04-28'
 specificationVersion: '0.19'
